@@ -1,0 +1,5 @@
+# these are the files where we are getting the data from. these files are large, so I decided to use a gitignore #
+# if you are interested in getting the data, you can do so at https://patentsview.org/download/data-download-tables #
+# with the files being the same name as they appear online in the website #
+g_cpc_current.tsv
+g_patent.tsv
