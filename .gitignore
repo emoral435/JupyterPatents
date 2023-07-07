@@ -3,5 +3,3 @@
 # with the files being the same name as they appear online in the website #
 g_cpc_current.tsv
 g_patent.tsv
-locations.csv
-g_location_not_disambiguated.tsv
