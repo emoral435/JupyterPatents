@@ -9,3 +9,5 @@ Using JupyterNotebooks and Pandas to analye data around patents to uncover any s
 ## Information
 
 The patent datasets where collected from [PatentsView](https://patentsview.org/download/data-download-tables), the primary distributor of open source patent datasets. Having a look at the gitignore file will help you know which datasets I used.
+
+The employment and population datasets where collected from [Datahub](https://datahub.io/core/employment-us#resource-aat1), and you can find further information about Datahub on their website.
